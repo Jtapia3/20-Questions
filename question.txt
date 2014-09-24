@@ -1,0 +1,14 @@
+Q:
+Is it an animal?
+Q:
+Does it hop?
+A:
+frog
+Q:
+Can it fly?
+A:
+bee
+A:
+dog
+A:
+computer
